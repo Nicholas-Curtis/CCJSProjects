@@ -44,3 +44,4 @@ cashRegister.scan('magazine',3);
 cashRegister.applyStaffDiscount(me);
 // Show the total bill
 console.log('Your bill is '+cashRegister.total.toFixed(2));
+ 
